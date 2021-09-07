@@ -1,6 +1,6 @@
 {
   "name": "conflux-event-indexer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Conflux event indexer",
   "repository": "https://github.com/Thegaram/conflux-event-indexer",
   "license": "MIT",
